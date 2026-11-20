@@ -6,7 +6,7 @@ A short team quiz game for law students and lawyers who want to practice the New
 
 ## Play it
 
-Web address: _(add your link here)_
+Web address: https://amyrweber.github.io/EthicsGame/
 
 You need a phone or a computer with a web browser. Play alone, or with 2 to 4 people sharing one screen.
 
