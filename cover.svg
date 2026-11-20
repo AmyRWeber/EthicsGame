@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+  <rect width="1200" height="600" fill="#eaf2f6"/>
+  <circle cx="1080" cy="90" r="160" fill="#fdecc8"/>
+  <circle cx="110" cy="540" r="140" fill="#dcf3e8"/>
+
+  <!-- scales of justice -->
+  <g fill="none" stroke="#17324d" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M220 130v330M140 470h160M90 180h260"/>
+    <path d="M90 180L50 290h80zM350 180L310 290h80z" fill="#f2b84b"/>
+  </g>
+  <circle cx="220" cy="130" r="18" fill="#17324d"/>
+
+  <!-- title -->
+  <text x="760" y="140" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" fill="#17324d">Spot the Fake</text>
+
+  <!-- four answer cards -->
+  <g font-family="system-ui, sans-serif" font-weight="700" font-size="30" text-anchor="middle">
+    <g transform="translate(470 200)">
+      <rect width="580" height="66" rx="16" fill="#fff" stroke="#c5d5e0" stroke-width="4"/>
+      <circle cx="40" cy="33" r="20" fill="#fdecc8"/><text x="40" y="43" fill="#17324d">A</text>
+      <rect x="80" y="26" width="380" height="14" rx="7" fill="#c5d5e0"/>
+    </g>
+    <g transform="translate(470 286)">
+      <rect width="580" height="66" rx="16" fill="#dcf3e8" stroke="#2f9e6e" stroke-width="6"/>
+      <circle cx="40" cy="33" r="20" fill="#2f9e6e"/><text x="40" y="43" fill="#fff">B</text>
+      <rect x="80" y="26" width="300" height="14" rx="7" fill="#2f9e6e" opacity=".5"/>
+      <path d="M520 33l14 14 26-28" fill="none" stroke="#2f9e6e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(470 372)">
+      <rect width="580" height="66" rx="16" fill="#fff" stroke="#c5d5e0" stroke-width="4"/>
+      <circle cx="40" cy="33" r="20" fill="#fdecc8"/><text x="40" y="43" fill="#17324d">C</text>
+      <rect x="80" y="26" width="420" height="14" rx="7" fill="#c5d5e0"/>
+    </g>
+    <g transform="translate(470 458)">
+      <rect width="580" height="66" rx="16" fill="#fff" stroke="#c5d5e0" stroke-width="4"/>
+      <circle cx="40" cy="33" r="20" fill="#fdecc8"/><text x="40" y="43" fill="#17324d">D</text>
+      <rect x="80" y="26" width="340" height="14" rx="7" fill="#c5d5e0"/>
+    </g>
+  </g>
+
+  <!-- confetti around the fake -->
+  <g>
+    <circle cx="1090" cy="290" r="9" fill="#f2b84b"/>
+    <circle cx="1120" cy="330" r="7" fill="#e2725b"/>
+    <circle cx="1095" cy="365" r="8" fill="#5aa9e6"/>
+    <circle cx="1140" cy="280" r="6" fill="#2f9e6e"/>
+    <circle cx="440" cy="300" r="8" fill="#e2725b"/>
+    <circle cx="415" cy="340" r="6" fill="#f2b84b"/>
+    <circle cx="450" cy="370" r="7" fill="#5aa9e6"/>
+  </g>
+</svg>
